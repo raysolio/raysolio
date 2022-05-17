@@ -2,6 +2,7 @@
 - qwin/sol/ty
 - pronounfluid, ask 4 pronouns
 - trans demimascandrogyneflux
+- i know a bit of html and a super tiny bit of css
 ## ☆ DNI
 - [this](https://listography.com/dni)
 - toxic vtuber fans
