@@ -1,5 +1,7 @@
+<img src="https://cdn.discordapp.com/attachments/555476414204346378/976312952623886337/cachedImage.png">
+
 ## ★ ABOUT
-- qwin/sol/ty
+- qwin/sol
 - pronounfluid, ask 4 pronouns
 - trans demimascandrogyneflux
 - i know a bit of html and a super tiny bit of css
