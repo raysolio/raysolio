@@ -17,6 +17,7 @@
 # ☆ LIKES/INTERESTS
 
 - nijisanji en
+- html + css!
 - alice mare
 - rhythm games
 - kirby
