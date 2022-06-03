@@ -1,6 +1,6 @@
 # ★ ABOUT
 
-- ray/qwin/fox
+- ray/qwin
 - pronounfluid but i normally always use he him pronouns
 - i know a bit of html and css
 - i make profile layouts for pony town users (check repositories)
@@ -17,7 +17,9 @@
 # ☆ LIKES/INTERESTS
 
 - nijisanji en
-- html + css!
+- making layouts
+- html + css
+- making carrds & rentrys
 - alice mare
 - rhythm games
 - kirby
