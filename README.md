@@ -1,5 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/555476414204346378/976312952623886337/cachedImage.png">
-
 # ★ ABOUT
 
 - ray/qwin/fox
