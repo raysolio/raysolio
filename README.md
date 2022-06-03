@@ -2,7 +2,7 @@
 
 # ★ ABOUT
 
-- fox/qwin
+- ray/qwin/fox
 - pronounfluid but i normally always use he him pronouns
 - i know a bit of html and css 
 # ☆ DNI
